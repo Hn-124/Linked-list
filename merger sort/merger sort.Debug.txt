@@ -1,0 +1,15 @@
+﻿'merger sort.exe' (Win32): Loaded 'C:\Users\hoang\source\repos\merger sort\merger sort\x64\Debug\merger sort.exe'. Symbols loaded.
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 8876 has exited with code 0 (0x0).
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'merger sort.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 19808 has exited with code 0 (0x0).
+The thread 23484 has exited with code 0 (0x0).
+The program '[11764] merger sort.exe' has exited with code 0 (0x0).

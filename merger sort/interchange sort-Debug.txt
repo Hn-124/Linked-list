@@ -1,0 +1,15 @@
+﻿'interchange sort.exe' (Win32): Loaded 'C:\Users\hoang\source\repos\interchange sort\interchange sort\x64\Debug\interchange sort.exe'. Symbols loaded.
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 9960 has exited with code 0 (0x0).
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'interchange sort.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 24264 has exited with code 0 (0x0).
+The thread 25428 has exited with code 0 (0x0).
+The program '[24700] interchange sort.exe' has exited with code 0 (0x0).
